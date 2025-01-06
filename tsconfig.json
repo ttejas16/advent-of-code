@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "module": "ESNext",
+        "moduleResolution": "bundler",
+        "target": "ESNext",
+        "sourceMap": false,
+        "strictNullChecks": true,
+        "incremental": true,
+        "tsBuildInfoFile": ".tsbuildinfo"
+    },
+    "include": ["./**/*.ts"]
+}
